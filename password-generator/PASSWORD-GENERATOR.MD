@@ -1,7 +1,8 @@
 ![](demo/images/preview.png)
 
-# Project Title
+# Linux terminal - Password Generator
 
+![](https://img.shields.io/github/issues/jebr/linux-scripts) ![](https://img.shields.io/badge/python%20version-3.8-success) ![](https://img.shields.io/github/license/jebr/linux-scripts) 
 <!-- Add buttons here -->
 
 <!-- Describe your project in brief -->
