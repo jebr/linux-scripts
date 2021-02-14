@@ -1,10 +1,9 @@
-![](demo/images/preview.png)
+<p align="center">
+	<img alt="Logo" src="https://raw.githubusercontent.com/jebr/linux-scripts/main/demo/images/password-generator.jpg" style="height: 600; width: 1280;">
+</p>
 
 # Password Generator (Linux terminal)
-![](https://img.shields.io/github/release-date/jebr/linux-scripts)
-![](https://img.shields.io/github/issues/jebr/linux-scripts) ![](https://img.shields.io/badge/python%20version-3.8-success) 
-![](https://img.shields.io/github/last-commit/jebr/linux-scripts) 
-![](https://img.shields.io/github/license/jebr/linux-scripts) 
+
 
 <!-- Describe your project in brief -->
 
@@ -129,3 +128,11 @@ Leave a star in GitHub if you found this application helpful.
 <!-- Add the footer here -->
 
 <!-- ![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png) -->
+
+
+# Installation
+[(Back to top)](#table-of-contents)
+
+
+# Usage
+[(Back to top)](#table-of-contents)
