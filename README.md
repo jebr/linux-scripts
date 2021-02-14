@@ -1,3 +1,6 @@
+<p align="center">
+  <img alt="Logo" src="https://raw.githubusercontent.com/jebr/linux-scripts/main/demo/images/linux-scripts-512x384.jpg">
+</p>
 
 # Linux automation scripts
 
