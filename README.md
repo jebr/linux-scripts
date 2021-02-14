@@ -1,8 +1,7 @@
 <p align="center">
-	<img alt="Logo" src="https://raw.githubusercontent.com/jebr/linux-scripts/main/demo/images/password-generator.jpg" style="height: 650; width: 1280;">
+	<img alt="Logo" src="https://raw.githubusercontent.com/jebr/linux-scripts/main/demo/images/password-generator.jpg" style="height: 600; width: 1280;">
 </p>
 
-![](demo/images/password-generator.jpg)
 
 # Linux automation scripts
 
