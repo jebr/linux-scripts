@@ -29,6 +29,7 @@ To use this application, follow the steps below:
 
 The following options are available for using the application:
 
+| Option    | Explanation               |
 |-----------|---------------------------|
 | --full    | Full update of the system |
 | --update  | Update of repositories    |
