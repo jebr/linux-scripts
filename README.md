@@ -3,7 +3,7 @@
 
 <p align="center">
 	<a href="https://github.com/jebr/linux-scripts/releases" target="_blank">
-    	<img alt="GitHub release" src="https://img.shields.io/github/release-date/jebr/linux-script">
+    	<img alt="GitHub release" src="https://img.shields.io/github/v/release/jebr/linux-scripts">
   	</a>
   	<a href="https://github.com/jebr/linux-scripts/commits/master" target="_blank">
   		<img alt="Last Commit" src="https://img.shields.io/github/last-commit/jebr/linux-scripts">
