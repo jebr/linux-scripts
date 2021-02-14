@@ -48,14 +48,14 @@ A collection of Linux automation scripts.
 
 
 # Releases
-
+* [Password Generator (Linux terminal)](https://github.com/jebr/linux-scripts/releases/tag/v1.0)
 
 
 # License
 
-[GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
+[GNU General Public License version 3](https://raw.githubusercontent.com/jebr/linux-scripts/v1.0/LICENSE)
 
-# Footer
+<hr>
 
 :star: this project in GitHub if you found this automation scripts helpful.
 
