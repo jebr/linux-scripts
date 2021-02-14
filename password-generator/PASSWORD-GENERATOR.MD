@@ -1,4 +1,4 @@
-![](./demo/images/preview.png)
+![](demo/images/preview.png)
 
 # Project Title
 
