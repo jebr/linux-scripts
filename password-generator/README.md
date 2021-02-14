@@ -10,9 +10,9 @@ You can choose to generator either a password or a passphrase. Supported languag
 
 # Preview
 
-![](demo/images/password-gen-01.png)
+![](./demo/images/password-gen-01.png)
 
-![](demo/images/password-gen-02.png)
+![](./demo/images/password-gen-02.png)
 
 # Table of contents
 
