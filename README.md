@@ -26,9 +26,7 @@
 </p>
 <hr>
 
-A password generator that can be used from the linux terminal.
-
-You can choose from a password or a passphrase. Supported languages are Dutch and English. 
+A collection of Linux automation scripts. 
 
 
 # Demo/Preview
