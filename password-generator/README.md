@@ -21,7 +21,16 @@ After creating the password or passphrase, the password will be visible in the t
 
 # Installation
 
-To use this application, download the latest release from the [link](https://github.com/jebr/linux-scripts/releases). Then you copy the application to the location of your choice. with the command `./password-generator` you start the application. 
+To use this application, follow the steps below:
+1. Download the latest release from the [link](https://github.com/jebr/linux-scripts/releases). 
+2. Copy the application to the location of your choice. 
+3. Make the program executable
+
+`sudo chmod +x password-generator.py`
+
+4. Start the application
+
+`./password-generator`
 
 # Usage
 
