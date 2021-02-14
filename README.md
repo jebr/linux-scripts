@@ -38,15 +38,6 @@ A collection of Linux automation scripts.
 * ![Syslog](/syslog/README.md)
 
 
-# Table of contents
-
-- [Demo/Preview](#demo/preview)
-- [Table of contents](#table-of-contents)
-- [Releases](#development)
-- [License](#license)
-- [Footer](#footer)
-
-
 # Releases
 * [Password Generator (Linux terminal)](https://github.com/jebr/linux-scripts/releases/tag/v1.0)
 
