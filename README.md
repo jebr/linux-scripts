@@ -47,16 +47,14 @@ A collection of Linux automation scripts.
 
 
 # Releases
-[(Back to top)](#table-of-contents)
+
 
 
 # License
-[(Back to top)](#table-of-contents)
 
 [GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
 
 # Footer
-[(Back to top)](#table-of-contents)
 
-Leave a star in GitHub if you found this automation scripts helpful.
+Leave a star :star: in GitHub if you found this automation scripts helpful.
 
