@@ -55,6 +55,5 @@ The following options are available for using the application:
 [GNU General Public License version 3](https://raw.githubusercontent.com/jebr/linux-scripts/v1.0/LICENSE)
 
 <hr>
-[(Back to top)](#table-of-contents)
 
 :star: this project in GitHub if you found this automation scripts helpful.
