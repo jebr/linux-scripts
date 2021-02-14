@@ -17,25 +17,11 @@ You can choose to generator either a password or a passphrase. Supported languag
 <img src="https://raw.githubusercontent.com/jebr/linux-scripts/main/demo/images/password-gen-02.png">
 
 
-# Table of contents
-- [Preview](#preview)
-- [Table of contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Releases](#development)
-- [Contribute](#contribute)
-    - [Sponsor](#sponsor)
-    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
-- [License](#license)
-- [Footer](#footer)
-
 # Installation
-[(Back to top)](#table-of-contents)
 
 To use this application, download the latest release from the [link](https://github.com/jebr/linux-scripts/releases). Then you copy the application to the location of your choice. with the command `./password-generator` you start the application. 
 
 # Usage
-[(Back to top)](#table-of-contents)
 
 The following options are available for using the application: 
 
@@ -48,12 +34,10 @@ The following options are available for using the application:
 | -pwre or --pwre [number of words]     | Create password with words and numbers (EN). Add number for word count                 |
 
 # Releases
-[(Back to top)](#table-of-contents)
 
 [Releases](https://github.com/jebr/linux-scripts/releases)
 
 # License
-[(Back to top)](#table-of-contents)
 
 [GNU General Public License version 3](https://raw.githubusercontent.com/jebr/linux-scripts/v1.0/LICENSE)
 
