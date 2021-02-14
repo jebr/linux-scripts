@@ -9,10 +9,10 @@ A password generator that can be used from the linux terminal.
 You can choose to generator either a password or a passphrase. Supported languages for passphrases are Dutch and English.
 
 # Preview
-
-![](./demo/images/password-gen-01.png)
-
-![](./demo/images/password-gen-02.png)
+<p>
+	<img src="https://raw.githubusercontent.com/jebr/linux-scripts/main/demo/images/password-gen-01.png">
+	<img src="https://raw.githubusercontent.com/jebr/linux-scripts/main/demo/images/password-gen-02.png">
+</p>
 
 # Table of contents
 
