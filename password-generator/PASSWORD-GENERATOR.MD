@@ -1,13 +1,14 @@
 ![](demo/images/preview.png)
 
-# Linux terminal - Password Generator
-
-![](https://img.shields.io/github/issues/jebr/linux-scripts) ![](https://img.shields.io/badge/python%20version-3.8-success) ![](https://img.shields.io/github/license/jebr/linux-scripts) 
-<!-- Add buttons here -->
+# Password Generator (Linux terminal)
+![](https://img.shields.io/github/release-date/jebr/linux-scripts)
+![](https://img.shields.io/github/issues/jebr/linux-scripts) ![](https://img.shields.io/badge/python%20version-3.8-success) 
+![](https://img.shields.io/github/last-commit/jebr/linux-scripts) 
+![](https://img.shields.io/github/license/jebr/linux-scripts) 
 
 <!-- Describe your project in brief -->
 
-<!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
+<!-- 
 
 Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention** and it **looks cool**(*duh!obviously!*).
 
