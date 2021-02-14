@@ -8,6 +8,8 @@ A password generator that can be used from the linux terminal.
 
 You can choose to generator either a password or a passphrase. Supported languages for passphrases are Dutch and English.
 
+After creating the password or passphrase, the password will be visible in the terminal and it will be copied to the clipboard, where you can paste the password with CTRL-V to the desired location. 
+
 # Preview
 
 ## Password Generator Help Menu
