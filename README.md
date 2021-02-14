@@ -11,6 +11,7 @@
   	<a href="https://github.com/jebr/linux-scripts/issues" target="_blank">
   		<img alt="Issues" src="https://img.shields.io/github/issues/jebr/linux-scripts">
   	</a>
+  	<br>
   	<a href="https://github.com/jebr/linux-scripts/pulls" target="_blank">
   		<img alt="Pull requests" src="https://img.shields.io/github/issues-pr-raw/jebr/linux-scripts">
   	</a>
