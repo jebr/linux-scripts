@@ -1,44 +1,46 @@
 #!/usr/bin/env python3
 
-# Python script voor het updaten van een Linux systeem
+# Python script to update Linux system
 
 import subprocess
 import argparse
 
-parser = argparse.ArgumentParser(description='Python script voor het updaten van een Linux systeem')
+parser = argparse.ArgumentParser(description='Python script to update your Linux system')
 
 def full():
-    print("Updaten, upgraden en opschonen van het systeem...")
+    print("Update, upgrade and clean the system...")
     subprocess.call(['sudo', 'apt-get', 'update', '-yy'])
     subprocess.call(['sudo', 'apt-get', 'dist-upgrade', '-yy'])
 
 def update():
-    print("Updaten van de repositories...")
+    print("Update repositories...")
     subprocess.call(['sudo', 'apt-get', 'update', '-yy'])
 
 def upgrade():
-    print("Upgraden van het systeem...")
+    print("Upgrade system...")
     subprocess.call(['sudo', 'apt-get', 'dist-upgrade', '-yy'])
 
 def clean():
-    print("Opschonen van het systeem...")
+    print("Cleanup the system...")
     subprocess.call(['sudo', 'apt-get', 'autoremove', '-yy'])
     subprocess.call(['sudo', 'apt-get', 'autoclean'])
 
 def leave():
     print("-----------------------------------")
-    print("Update en upgrade is uitgevoerd en ")
-    print("het systeem is opgeschoond         ")
+    print("Update upgrade done                ")
+    print("The system is cleaned up           ")
     print("-----------------------------------")
 
 def clear_screen():
     subprocess.check_call(["clear"])
 
+clear_screen()
+
 # Optional arguments
-parser.add_argument("--full", help="Volledige update van het systeem", action="store_true")
-parser.add_argument("--update", help="Updaten van de repositories", action="store_true")
-parser.add_argument("--upgrade", help="Upgraden van het systeem", action="store_true")
-parser.add_argument("--clean", help="Opruimen van het systeem", action="store_true")
+parser.add_argument("--full", help="Full update of the system", action="store_true")
+parser.add_argument("--update", help="Update of repositories", action="store_true")
+parser.add_argument("--upgrade", help="Upgrade of the system", action="store_true")
+parser.add_argument("--clean", help="Cleanup the system", action="store_true")
 args = parser.parse_args()
 if args.full:
     clear_screen()
@@ -50,16 +52,16 @@ elif args.update:
     clear_screen()
     update()
     clear_screen()
-    print("Update van de repositories is uitgevoerd")
+    print("Update of repositories is done")
 elif args.upgrade:
     clear_screen()
     upgrade()
     clear_screen()
-    print("Het systeem is geupgraded")
+    print("Upgrade system done")
 elif args.clean:
     clear_screen()
     clean()
     clear_screen()
-    print("Het systeem is opgeschoond")
+    print("The system is cleaned up")
 else:
     parser.print_help()
