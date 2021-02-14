@@ -1,5 +1,5 @@
 <p align="center" style="height: 200; width: 300;">
-	<img alt="Logo" src="https://raw.githubusercontent.com/jebr/linux-scripts/main/demo/images/password-generator.jpg">
+	<img alt="Logo" src="https://raw.githubusercontent.com/jebr/linux-scripts/main/demo/images/password-generator-512x384.jpg">
 </p>
 
 # Password Generator (Linux terminal)
