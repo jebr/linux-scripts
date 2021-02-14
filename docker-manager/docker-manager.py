@@ -41,6 +41,8 @@ def clean_everything():
     clear_screen()
     subprocess.check_call(["docker", "system", "prune", "-f"])
 
+clear_screen()
+
 # Optional arguments
 parser.add_argument("--ls", "--list", help="List running docker containers", action="store_true")
 parser.add_argument("--cc", help="Clean up unused Docker Containers", action="store_true")

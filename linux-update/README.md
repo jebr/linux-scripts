@@ -1,4 +1,4 @@
-<p align="center" style="height: 200; width: 300;">
+<p align="center">
 	<img alt="Logo" src="https://raw.githubusercontent.com/jebr/linux-scripts/main/demo/images/linux-update-512x384.jpg">
 </p>
 
