@@ -16,12 +16,19 @@ A script to update, upgrade and clean Linux.
 
 To use this application, follow the steps below:
 1. Install curl if you haven't already
+
 `sudo apt install curl`
+
 2. Download the Linux update script
+
 `curl -LJO https://raw.githubusercontent.com/jebr/linux-scripts/main/linux-update/update.py`
+
 3. Make the script executable
+
 `sudo chmod +x update.py`
+
 4. Start the program
+
 `./update.py`
 
 
