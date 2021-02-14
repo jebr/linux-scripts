@@ -38,11 +38,14 @@ To use this application, download the latest release from the [link](https://git
 [(Back to top)](#table-of-contents)
 
 The following options are available for using the application: 
--pl or --pl [number of characters]    | Create password with only letters. Add a number for password length
--pln or --pln [number of characters]  | Create password with letters and numbers. Add a number for password length
--plnc or --plnc [number of characters]| Create password with letters, numbers and characters. Add a number for password length
--pwrd or --pwrd [number of words]     | Create password with words and numbers (NL). Add number for word count
--pwre or --pwre [number of words]     | Create password with words and numbers (EN). Add number for word count
+
+| Option                                | Explanation                                                                            |
+|---------------------------------------|----------------------------------------------------------------------------------------|
+| -pl or --pl [number of characters]    | Create password with only letters. Add a number for password length                    |
+| -pln or --pln [number of characters]  | Create password with letters and numbers. Add a number for password length             |
+| -plnc or --plnc [number of characters]| Create password with letters, numbers and characters. Add a number for password length |
+| -pwrd or --pwrd [number of words]     | Create password with words and numbers (NL). Add number for word count                 |
+| -pwre or --pwre [number of words]     | Create password with words and numbers (EN). Add number for word count                 |
 
 # Releases
 [(Back to top)](#table-of-contents)
