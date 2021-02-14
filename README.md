@@ -56,5 +56,5 @@ A collection of Linux automation scripts.
 
 # Footer
 
-Leave a star :star: in GitHub if you found this automation scripts helpful.
+Leave a :star: in GitHub if you found this automation scripts helpful.
 
