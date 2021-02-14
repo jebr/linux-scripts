@@ -6,7 +6,7 @@ import os
 import subprocess
 import argparse
 
-parser = argparse.ArgumentParser(description='Python script voor het updaten en beheren van docker containers')
+parser = argparse.ArgumentParser(description='Python script to manage Docker server')
 
 
 def clear_screen():
