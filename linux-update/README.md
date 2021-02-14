@@ -28,11 +28,12 @@ To use this application, follow the steps below:
 # Usage
 
 The following options are available for using the application:
---------------------------------------
---full    | Full update of the system 
---update  | Update of repositories    
---upgrade | Upgrade of the system     
---clean   | Cleanup the system        
+
+|-----------|---------------------------|
+| --full    | Full update of the system |
+| --update  | Update of repositories    |
+| --upgrade | Upgrade of the system     |
+| --clean   | Cleanup the system        |
 
 # License
 
