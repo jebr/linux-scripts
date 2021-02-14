@@ -1,3 +1,6 @@
+<p align="center">
+	<img alt="Logo" src="https://raw.githubusercontent.com/jebr/linux-scripts/main/demo/images/password-generator.jpg" style="height: 650; width: 1280;">
+</p>
 
 ![](demo/images/password-generator.jpg)
 
@@ -26,8 +29,12 @@
   		<img alt="Python version" src="https://img.shields.io/badge/python%20version-3.8-blue">
   	</a>
 </p>
+<hr>
 
-<!-- Describe your project in brief -->
+A password generator that can be used from the linux terminal.
+
+You can choose from a password or a passphrase. Supported languages are Dutch and English. 
+
 
 <!-- 
 
