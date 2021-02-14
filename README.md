@@ -15,7 +15,7 @@
   	<a href="https://github.com/jebr/linux-scripts/pulls" target="_blank">
   		<img alt="Pull requests" src="https://img.shields.io/github/issues-pr-raw/jebr/linux-scripts">
   	</a>
-  	<a href="https://github.com/jebr/linux-scripts#contribute" target="_blank">
+  	<a href="https://github.com/jebr/linux-scripts/graphs/contributors" target="_blank">
   		<img alt="Contributers" src="https://img.shields.io/github/contributors/jebr/linux-scripts">
   	</a>
   	<a href="https://github.com/jebr/linux-scripts/blob/main/LICENSE" target="_blank">
