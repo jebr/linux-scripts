@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="Logo" src="https://raw.githubusercontent.com/jebr/linux-scripts/main/demo/images/linux-update-512x384.jpg">
+	<img alt="Logo" src="https://raw.githubusercontent.com/jebr/linux-scripts/main/demo/images/linux-update.jpg">
 </p>
 
 # Linux Update Script
