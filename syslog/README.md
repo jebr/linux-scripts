@@ -4,7 +4,7 @@
 
 # Syslog script
 
-A script to view a certain of rows from the Syslog (`/var/log/syslog`)
+A script to view a certain amount of rows from the Syslog (`/var/log/syslog`)
 
 # Preview
 
