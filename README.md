@@ -35,10 +35,10 @@ A collection of Linux automation scripts.
 
 # Demo/Preview
 
-* ![Password Generator](/password-generator/README.md)
-* ![Linux Update](/linux-update/README.md)
-* ![Docker Manager](/docker-manager/README.md)
-* ![Syslog](/syslog/README.md)
+* ![Password Generator](/password-generator)
+* ![Linux Update](/linux-update)
+* ![Docker Manager](/docker-manager)
+* ![Syslog](/syslog)
 
 
 # Releases
