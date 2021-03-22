@@ -39,6 +39,7 @@ A collection of Linux automation scripts.
 * ![Linux Update](/linux-update)
 * ![Docker Manager](/docker-manager)
 * ![Syslog](/syslog)
+* ![Ansible Setup](/ansible-setup)
 
 
 # Releases
