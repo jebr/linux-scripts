@@ -18,27 +18,6 @@ You can install the OpenSSH server with the following command:
 
 `sudo apt install openssh-server -yy`
 
-# Finnaly
-
-After going through the installation and testing, the remote user still has to be added to the group sudo without a password.
-Go through the following steps to set this up.
-
-1. Create the group ansible
-
-`sudo groupadd ansible`
-
-2. Add the current user to the ansible group
-
-`sudo usermod -aG ansible $USER`   
-
-3. Open /etc/sudoers
-
-`sudo visudo`
-
-4. Add the following line to the file
-
-`%ansible ALL=(ALL:ALL) NOPASSWD:ALL`
-
 # Preview
 
 ## Linux Update Help Menu
@@ -75,6 +54,27 @@ The following options are available for using the application:
 | --ppk     | Create private and public key |
 | --copy    | Copy public key to host       |
 | --hosts   | Define hosts and test Ansible |
+
+# Finnaly
+
+After going through the installation and testing, the remote user still has to be added to the group sudo without a password.
+Go through the following steps to set this up.
+
+1. Create the group ansible
+
+`sudo groupadd ansible`
+
+2. Add the current user to the ansible group
+
+`sudo usermod -aG ansible $USER`   
+
+3. Open /etc/sudoers
+
+`sudo visudo`
+
+4. Add the following line to the file
+
+`%ansible ALL=(ALL:ALL) NOPASSWD:ALL`
 
 # License
 
