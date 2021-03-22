@@ -11,6 +11,34 @@ A script to deploy Ansible with the following features:
   * Add hosts with variables to Ansible inventory (/etc/ansible/hosts)
   * Test host connection with `ansible -m ping`
 
+# Preparations 
+
+Before you can fully deploy Ansible you must ensure that OpenSSH server is installed on the host pc. 
+You can install the OpenSSH server with the following command:
+
+`sudo apt install openssh-server -yy`
+
+# Finnaly
+
+After going through the installation and testing, the remote user still has to be added to the group sudo without a password.
+Go through the following steps to set this up.
+
+1. Create the group ansible
+
+`sudo groupadd ansible`
+
+2. Add the current user to the ansible group
+
+`sudo usermod -aG ansible $USER`   
+
+3. Open /etc/sudoers
+
+`sudo visudo`
+
+4. Add the following line to the file
+
+`%ansible ALL=(ALL:ALL) NOPASSWD:ALL`
+
 # Preview
 
 ## Linux Update Help Menu
