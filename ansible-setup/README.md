@@ -55,7 +55,7 @@ The following options are available for using the application:
 | --copy    | Copy public key to host       |
 | --hosts   | Define hosts and test Ansible |
 
-# Finnaly
+# Finally
 
 After going through the installation and testing, the remote user still has to be added to the group sudo without a password.
 Go through the following steps to set this up.
