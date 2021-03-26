@@ -58,7 +58,7 @@ The following options are available for using the application:
 # Finally
 
 After going through the installation and testing, the remote user still has to be added to the group sudo without a password.
-Go through the following steps to set this up.
+Go through the following steps to set this up on the remote host.
 
 1. Create the group ansible
 
