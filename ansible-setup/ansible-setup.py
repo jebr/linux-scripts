@@ -42,7 +42,7 @@ def define_hosts():
     subprocess.check_call(['sudo', 'usermod', '-aG', 'ansible', f'{getpass.getuser()}'])
     subprocess.check_call(['sudo', 'chown', f'{getpass.getuser()}:ansible', '/etc/ansible/hosts'])
     clear_screen()
-    print("Define Ansible nodes one group add the time")
+    print("Define Ansible nodes one group at the time")
     print("Enter IP-addresses, hit enter to exit")
     hosts = []
     while True:
