@@ -7,20 +7,23 @@
 A script to deploy Ansible with the following features:
   * Install Ansible
   * Create private and public key
-  * Copy public key to node (host)
+  * Copy public key to node (Linux only)
   * Add hosts with variables to Ansible inventory (/etc/ansible/hosts)
   * Test host connection with `ansible -m ping`
 
 # Preparations 
 
-Before you can fully deploy Ansible you must ensure that OpenSSH server is installed on the host pc. 
-You can install the OpenSSH server with the following command:
+Before you can fully deploy Ansible you must ensure that OpenSSH server is installed on the host pc.
+
+Linux: Install the OpenSSH server with the following command:
 
 `sudo apt install openssh-server -yy`
 
-# Preview
+Windows: Use the link below to install and configure the OpenSSH server on Windows.
 
-## Linux Update Help Menu
+[OpenSSH server on Windows](https://github.com/jebr/windows-scripts/tree/main/openssh-server)
+
+# Preview
 <img src="https://raw.githubusercontent.com/jebr/linux-scripts/main/demo/images/ansible-terminal.png">
 
 
