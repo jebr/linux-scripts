@@ -15,11 +15,11 @@ A script to deploy Ansible with the following features:
 
 Before you can fully deploy Ansible you must ensure that OpenSSH server is installed on the host pc.
 
-Linux: Install the OpenSSH server with the following command:
+**Linux**: Install the OpenSSH server with the following command:
 
 `sudo apt install openssh-server -yy`
 
-Windows: Use the link below to install and configure the OpenSSH server on Windows.
+**Windows**: Use the link below to install and configure the OpenSSH server on Windows.
 
 [OpenSSH server on Windows](https://github.com/jebr/windows-scripts/tree/main/openssh-server)
 
