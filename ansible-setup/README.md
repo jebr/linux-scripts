@@ -48,14 +48,14 @@ To use this application, follow the steps below:
 
 The following options are available for using the application:
 
-| Option    | Explanation                   |
-|-----------|-------------------------------|
-| --install | Install Ansible               |
-| --ppk     | Create private and public key |
-| --copy    | Copy public key to host       |
-| --hosts   | Define hosts and test Ansible |
+| Option    | Explanation                          |
+|-----------|--------------------------------------|
+| --install | Install Ansible                      |
+| --ppk     | Create private and public key        |
+| --copy    | Copy public key to host (Linux only) |
+| --hosts   | Define hosts and test Ansible        |
 
-# Finally
+# Finally (Linux only)
 
 After going through the installation and testing, the remote user still has to be added to the group sudo without a password.
 Go through the following steps to set this up on the remote host.

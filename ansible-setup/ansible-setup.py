@@ -80,7 +80,7 @@ clear_screen()
 # Optional arguments
 parser.add_argument("--install", help="Install Ansible", action="store_true")
 parser.add_argument("--ppk", help="Create private and public key", action="store_true")
-parser.add_argument("--copy", help="Copy public key to host", action="store_true")
+parser.add_argument("--copy", help="Copy public key to host (Linux only)", action="store_true")
 parser.add_argument("--hosts", help="Define hosts and test Ansible", action="store_true")
 
 args = parser.parse_args()
