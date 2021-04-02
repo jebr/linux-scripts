@@ -42,11 +42,11 @@ To use this application, follow the steps below:
 
 3. Make the script executable
 
-`sudo chmod +x ansible-setup.py`
+`sudo chmod +x ansible-setup`
 
 4. Start the program
 
-`./ansible-setup.py`
+`./ansible-setup`
 
 
 # Usage
