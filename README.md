@@ -52,5 +52,5 @@ A collection of Linux automation scripts.
 
 <hr>
 
-:star: this project in GitHub if you found this automation scripts helpful.
+:star: this project in if you found this automation scripts helpful.
 
