@@ -17,8 +17,12 @@ def check_container(containers):
 
 	if check_containers:
 		return True
-
-	return False
+	else:
+		possible_containers = ",".join(new_running_containers)
+		if len(possible_containers) < 1:
+			print("There are no containers to update")
+		else:
+			print(f"Possible containers to update: {possible_containers}")
 
 
 def update_container(containers):
@@ -35,8 +39,8 @@ def update_container(containers):
 			subprocess.check_call(["docker-compose", "up", "-d", f"{container}"])
 
 		print("============================")
-		print("Updating containers complete")
-		print("============================")
+		print("Updating complete: " + ",".join(containers))
+
 
 	except Exception as e:
 		print(f"Updating failed: {e}")
@@ -55,8 +59,6 @@ def main():
 
 	if check_container(containers):
 		update_container(containers)
-	else:
-		print("Container(s) does not exist")
 
 
 if __name__ == '__main__':
