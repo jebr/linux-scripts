@@ -10,7 +10,7 @@ parser = argparse.ArgumentParser(description='Python script to update your Linux
 def full():
     print("Update, upgrade and clean the system...")
     subprocess.call(['sudo', 'apt-get', 'update', '-yy'])
-    subprocess.call(['sudo', 'apt-get', 'dist-upgrade', '-yy'])
+    subprocess.call(['sudo', 'apt-get', 'full-upgrade', '-yy'])
 
 def update():
     print("Update repositories...")
